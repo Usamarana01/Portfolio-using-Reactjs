@@ -16,7 +16,7 @@ Netlify: Deployed seamlessly on Netlify, ensuring continuous integration and dep
  ## Getting Started
 To get a local copy up and running follow these simple steps:
 
-Clone the repository: git clone https://github.com/your-username/react-portfolio.git
+Clone the repository: git clone https://github.com/usamarana01/react-portfolio.git
 Navigate into the project directory: cd react-portfolio
 Install dependencies: npm install
 Start the development server: npm start
