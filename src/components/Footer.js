@@ -14,7 +14,6 @@ function Footer() {
    <Container fluid className="footer" style={{
       position: "relative",
       margin: "0 auto",
-      bottom:"0 auto",
     }}>
     
       <Row>
