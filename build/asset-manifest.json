@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.18c476ba.css",
+    "main.js": "/static/js/main.ea96841a.js",
+    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/imageclass.png": "/static/media/imageclass.b40ea945b006ca908c0b.png",
+    "static/media/data.jpg": "/static/media/data.2393224770fa948339a2.jpg",
+    "static/media/gdsc.PNG": "/static/media/gdsc.c5bba4e0d974f9abc3ae.PNG",
+    "static/media/ai.PNG": "/static/media/ai.3b4665060a4239186b2d.PNG",
+    "static/media/bi.PNG": "/static/media/bi.b63ea08438d800df334f.PNG",
+    "static/media/datascience.PNG": "/static/media/datascience.7eff873a1b955ba0bd81.PNG",
+    "static/media/bussinessIntell.PNG": "/static/media/bussinessIntell.d3b6f69ff43a57659e03.PNG",
+    "static/media/falconx.jpg": "/static/media/falconx.82b774ad6f01af8037da.jpg",
+    "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
+    "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/cv.pdf": "/static/media/cv.eed054c136f6a0ca7e9b.pdf",
+    "static/media/insurance.png": "/static/media/insurance.51faae20e11548f67562.png",
+    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/stackoverflow.PNG": "/static/media/stackoverflow.94dd8d3bedd2b3ba10ff.PNG",
+    "static/media/fruits.jpg": "/static/media/fruits.087d2b99d5d26f807546.jpg",
+    "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
+    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/index.html",
+    "main.18c476ba.css.map": "/static/css/main.18c476ba.css.map",
+    "main.ea96841a.js.map": "/static/js/main.ea96841a.js.map",
+    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.18c476ba.css",
+    "static/js/main.ea96841a.js"
+  ]
+}
