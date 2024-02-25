@@ -11,10 +11,10 @@ function Footer() {
   let date = new Date();
   let year = date.getFullYear();
   return (
-    <Container fluid className="footer" style={{
-      position: "fixed",
-      bottom: "0",
-      width: "100%"
+   <Container fluid className="footer" style={{
+      position: "relative",
+      margin: "0 auto",
+      bottom:"0 auto",
     }}>
     
       <Row>
