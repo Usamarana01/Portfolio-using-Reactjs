@@ -9,7 +9,7 @@ import insurance from "../../Assets/images/insurance.png"
 import falconx from "../../Assets/images/falconx.jpg"
 import stackoverflow from "../../Assets/images/stackoverflow.PNG" 
  import handwritten from "../../Assets/images/handwritten.jpg"
-
+import churn from "../../Assets/images/churn.jpg"
 
 function Projects() {
   return (
@@ -80,6 +80,15 @@ function Projects() {
               description="Through this project, we demonstrate the effectiveness of Artificial Neural Networks in tackling image classification tasks. By leveraging TensorFlow and a carefully crafted model architecture, we achieve impressive accuracy in classifying images from the CIFAR-10 dataset. "
               
               ghLink="https://github.com/Usamarana01/Tiny-Image-classification-using-ANN"
+            />
+          </Col>
+          <Col lg={4} md={6} className="project-card">
+            <ProjectCard
+              imgPath={churn}
+              title="Customers Churn prediction using ANN"
+              description="This project utilizes Artificial Neural Networks (ANNs) to predict customer churn. By analyzing customer data, including demographics and service usage, the model aims to identify customers at risk of leaving a company."
+              
+              ghLink="https://github.com/Usamarana01/Customers-churn-prediction-"
             />
           </Col>
         </Row>
