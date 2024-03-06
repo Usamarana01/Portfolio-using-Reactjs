@@ -9,7 +9,7 @@ import insurance from "../../Assets/images/insurance.png"
 import falconx from "../../Assets/images/falconx.jpg"
 import stackoverflow from "../../Assets/images/stackoverflow.PNG" 
  import handwritten from "../../Assets/images/handwritten.jpg"
-import churn from "../../Assets/images/churn.jpg"
+import churn from "../../Assets/images/churn.png"
 
 function Projects() {
   return (
